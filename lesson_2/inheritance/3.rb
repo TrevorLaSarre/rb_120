@@ -1,0 +1,1 @@
+#Pet (or Animal) has two branches -- one to Dog and one to Cat. Cat has no branches, and Dog has one to Bulldog.
